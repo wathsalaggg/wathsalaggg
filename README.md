@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **wathsalagamarachchi@gmail.com**
 
-- ⚡ Fun fact **I hate garlic :')**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
