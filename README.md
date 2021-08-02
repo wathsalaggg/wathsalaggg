@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wathsala</h1>
 <h3 align="center">Undergraduate in Computer Information and System Sciences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wathsalaggg&label=Profile%20views&color=0e75b6&style=flat" alt="wathsalaggg" /> </p>
 
 - 🌱 I’m currently learning **Arduino, Python**
 
