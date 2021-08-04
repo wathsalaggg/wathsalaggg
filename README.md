@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Wathsala</h1>
-<h3 align="center">Undergraduate in Computer Information and System Sciences</h3>
 
 
 - 🌱 I’m currently learning **Arduino, Python**
