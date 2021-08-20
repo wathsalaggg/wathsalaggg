@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning **Arduino, Python**
 
-- 📫 How to reach me **wathsalagamarachchi@gmail.com**
 
 
 
