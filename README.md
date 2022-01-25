@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning **Arduino, Python**
+- 🌱 I’m currently learning **__**
 
 
 
