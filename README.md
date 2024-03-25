@@ -1,11 +1,10 @@
 <h1 align="center">Hey There 👋, It's Wathsala here!</h1>
-<h3 align="center">A MERN Stack Developer <<3</h3>
+<h3 align="center">A Full Stack Developer <<3</h3>
 
 
 
 - 🔭 I’m an undergraduate in **Information System Sciences**
 
-- 🌱 I’m currently playing **CTF | leetcode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
